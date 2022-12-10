@@ -1,0 +1,26 @@
+body {
+    background-color: #3756B7;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.ayang {
+    background-color: #233A84;
+    background-position: ;
+}
+
+.blur {
+    background-color: black;
+}
+
+
+.image-container {
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: drop-shadow(10px 10px 5px pink);
+}
